@@ -25,5 +25,6 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 
 Copy your project's URL and submit it to freeCodeCamp.
 
-### Output
+### My Output
+![alt text](https://github.com/AzadehKSH/Time-series-visualizer/blob/main/time_series_output.PNG)
 
